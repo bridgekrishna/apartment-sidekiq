@@ -23,5 +23,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'minitest'
 
   spec.add_dependency 'ros-apartment', '~> 2.2'
-  spec.add_dependency 'sidekiq', '~> 7.3'
+  spec.add_dependency 'sidekiq', '~> 7.2'
 end
