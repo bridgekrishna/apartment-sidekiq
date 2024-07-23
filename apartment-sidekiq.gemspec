@@ -22,6 +22,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake"
   spec.add_development_dependency 'minitest'
 
-  spec.add_dependency 'ros-apartment', '~> 3.1'
+  spec.add_dependency 'ros-apartment', '~> 2.2'
   spec.add_dependency 'sidekiq', '~> 7.3'
 end
